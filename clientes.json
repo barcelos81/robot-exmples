@@ -1,0 +1,25 @@
+{
+    "clientes": [
+        {
+            "id": "1",
+            "nome": "Mary Brady",
+            "email": "mary@abc.com",
+            "cidade": "Frederick",
+            "estado": "Maryland"
+        },
+        {
+            "id": "2",
+            "nome": "Kristel Conroy",
+            "email": "kristel@robot.com",
+            "cidade": "North Las Vegas",
+            "estado": "Nevada"
+        },
+        {
+            "id": "3",
+            "nome": "Estell Holding",
+            "email": "estell@holding.com",
+            "cidade": "Washington",
+            "estado": "District of Columbia"
+        }
+    ]
+}
